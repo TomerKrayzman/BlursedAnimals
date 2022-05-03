@@ -1,0 +1,12 @@
+﻿D:\TEACHERS\ENWER\4_0_COURSE\5_MESH_FILES\OTHERS\3DS Max Ekstra\3D Studio Max-500 Models and Textures\500_Modeles_HQ+Textures_FR_ZIP_by_SRC.powaa\DATA\ANIMALS\TURTLE\t$m$p$$$\TURTLE.max
+D:\TEACHERS\ENWER\4_0_COURSE\5_MESH_FILES\OTHERS\3DS Max Ekstra\3D Studio Max-500 Models and Textures\500_Modeles_HQ+Textures_FR_ZIP_by_SRC.powaa\DATA\ANIMALS\TURTLE\t$m$p$$$\MAXFILES.TXT
+C:\Program Files\Autodesk\3ds Max 2016\Maps\glare\glare_streaks_star_camera_filter.tif
+D:\TEACHERS\ENWER\4_0_COURSE\5_MESH_FILES\OTHERS\3DS Max Ekstra\3D Studio Max-500 Models and Textures\500_Modeles_HQ+Textures_FR_ZIP_by_SRC.powaa\DATA\ANIMALS\TURTLE\TOP.JPG
+D:\TEACHERS\ENWER\4_0_COURSE\5_MESH_FILES\OTHERS\3DS Max Ekstra\3D Studio Max-500 Models and Textures\500_Modeles_HQ+Textures_FR_ZIP_by_SRC.powaa\DATA\ANIMALS\TURTLE\TOPBUMP.JPG
+D:\TEACHERS\ENWER\4_0_COURSE\5_MESH_FILES\OTHERS\3DS Max Ekstra\3D Studio Max-500 Models and Textures\500_Modeles_HQ+Textures_FR_ZIP_by_SRC.powaa\DATA\ANIMALS\TURTLE\BOTTOM.JPG
+D:\TEACHERS\ENWER\4_0_COURSE\5_MESH_FILES\OTHERS\3DS Max Ekstra\3D Studio Max-500 Models and Textures\500_Modeles_HQ+Textures_FR_ZIP_by_SRC.powaa\DATA\ANIMALS\TURTLE\LEGS.JPG
+D:\TEACHERS\ENWER\4_0_COURSE\5_MESH_FILES\OTHERS\3DS Max Ekstra\3D Studio Max-500 Models and Textures\500_Modeles_HQ+Textures_FR_ZIP_by_SRC.powaa\DATA\ANIMALS\TURTLE\LEGSBUM.JPG
+D:\TEACHERS\ENWER\4_0_COURSE\5_MESH_FILES\OTHERS\3DS Max Ekstra\3D Studio Max-500 Models and Textures\500_Modeles_HQ+Textures_FR_ZIP_by_SRC.powaa\DATA\ANIMALS\TURTLE\CABEZA.JPG
+D:\TEACHERS\ENWER\4_0_COURSE\5_MESH_FILES\OTHERS\3DS Max Ekstra\3D Studio Max-500 Models and Textures\500_Modeles_HQ+Textures_FR_ZIP_by_SRC.powaa\DATA\ANIMALS\TURTLE\UNA.JPG
+D:\TEACHERS\ENWER\4_0_COURSE\5_MESH_FILES\OTHERS\3DS Max Ekstra\3D Studio Max-500 Models and Textures\500_Modeles_HQ+Textures_FR_ZIP_by_SRC.powaa\DATA\ANIMALS\TURTLE\OJO.JPG
+D:\TEACHERS\ENWER\4_0_COURSE\5_MESH_FILES\OTHERS\3DS Max Ekstra\3D Studio Max-500 Models and Textures\500_Modeles_HQ+Textures_FR_ZIP_by_SRC.powaa\DATA\ANIMALS\TURTLE\INTERIOR.JPG
